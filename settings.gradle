@@ -1,0 +1,2 @@
+rootProject.name='AutoSizingTextview'
+include ':app'
